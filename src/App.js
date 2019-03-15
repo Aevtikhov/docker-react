@@ -12,6 +12,10 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload 
 	    I was changed.
           </p>
+	  <p class ="App-intro">
+            I was changed on the Feature branch
+          </p>
+
           <a
             className="App-link"
             href="https://reactjs.org"
